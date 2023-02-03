@@ -12,6 +12,9 @@
       <cl:listener std:sid="listener-eb48cc68" name="click" handler="onButtonClick"/>
       <cl:xylayoutdata std:sid="xyl-data-867be88f" top="20px" left="20px" width="263px" height="80px" horizontalAnchor="LEFT" verticalAnchor="TOP"/>
     </cl:button>
+    <cl:button std:sid="button-770461cf" id="btn1" value="Button">
+      <cl:xylayoutdata std:sid="xyl-data-df79e31e" top="139px" left="56px" width="100px" height="20px" horizontalAnchor="LEFT" verticalAnchor="TOP"/>
+    </cl:button>
     <cl:xylayout std:sid="xylayout-7165409e"/>
   </body>
   <std:studiosetting>
