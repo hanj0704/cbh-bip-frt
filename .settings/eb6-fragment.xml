@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="ASCII"?>
 <fragment:FragmentConfiguration xmlns:fragment="kr.co.tomatosystem.exbuilder.model.fragment" kind="host">
-  <entry project="cbh-cmn-frt" packageName="cbhcmn"/>
+  <entry project="cbh-clm-frt" packageName="cbhclm"/>
 </fragment:FragmentConfiguration>
