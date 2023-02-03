@@ -50,4 +50,16 @@
 	<natures>
 		<nature>kr.co.tomatosystem.cleopatra.nature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>clx-src/cbhclm</name>
+			<type>2</type>
+			<locationURI>EBFRAG_SRC_OF_cbh-clm-frt/cbhclm</locationURI>
+		</link>
+		<link>
+			<name>clx-src/udc/cbhclm</name>
+			<type>2</type>
+			<locationURI>EBFRAG_SRC_OF_cbh-clm-frt/udc/cbhclm</locationURI>
+		</link>
+	</linkedResources>
 </projectDescription>
