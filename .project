@@ -52,14 +52,14 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>clx-src/cbhclm</name>
+			<name>clx-src/cbhcmn</name>
 			<type>2</type>
-			<locationURI>EBFRAG_SRC_OF_cbh-clm-frt/cbhclm</locationURI>
+			<locationURI>EBFRAG_SRC_OF_cbh-cmn-frt/cbhcmn</locationURI>
 		</link>
 		<link>
-			<name>clx-src/udc/cbhclm</name>
+			<name>clx-src/udc/cbhcmn</name>
 			<type>2</type>
-			<locationURI>EBFRAG_SRC_OF_cbh-clm-frt/udc/cbhclm</locationURI>
+			<locationURI>EBFRAG_SRC_OF_cbh-cmn-frt/udc/cbhcmn</locationURI>
 		</link>
 	</linkedResources>
 </projectDescription>
